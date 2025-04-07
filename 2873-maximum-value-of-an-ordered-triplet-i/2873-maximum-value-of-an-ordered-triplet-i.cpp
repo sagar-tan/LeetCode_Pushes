@@ -9,12 +9,12 @@ public:
                 a = max(a, (long long) nums[i]); 
             }
             long long c = 0;
-            for (int k = j + 1; k < n; k++) {
+            for (int k = j +  1; k < n; k++) {
                 c = max(c, (long long) nums[k]); 
             }
             long long value = (a - nums[j]) * c;
             ans = max(ans, value);
         }
-        return ans;
+        return ans; 
     }
 };
