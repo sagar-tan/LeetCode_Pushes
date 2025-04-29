@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0724-find-pivot-index) |
 ## Design
 |  |
 | ------- |
@@ -15,4 +16,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
