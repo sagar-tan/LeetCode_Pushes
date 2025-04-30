@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0303-range-sum-query-immutable](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0303-range-sum-query-immutable) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
