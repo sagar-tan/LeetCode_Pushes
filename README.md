@@ -74,4 +74,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
