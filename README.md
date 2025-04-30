@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -99,5 +100,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
