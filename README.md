@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0231-power-of-two) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0357-count-numbers-with-unique-digits) |
 ## Bit Manipulation
