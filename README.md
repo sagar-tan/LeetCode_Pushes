@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0239-sliding-window-maximum) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -63,4 +66,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
