@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0053-maximum-subarray) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0357-count-numbers-with-unique-digits) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
