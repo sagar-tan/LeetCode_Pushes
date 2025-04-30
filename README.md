@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0239-sliding-window-maximum](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0724-find-pivot-index) |
 ## Design
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0239-sliding-window-maximum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +51,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
