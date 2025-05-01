@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0724-find-pivot-index) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Design
 |  |
 | ------- |
@@ -61,10 +62,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -73,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Stack
 |  |
 | ------- |
@@ -106,4 +110,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0160-intersection-of-two-linked-lists) |
+## Greedy
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Sorting
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
