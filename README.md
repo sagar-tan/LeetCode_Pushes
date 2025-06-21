@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0724-find-pivot-index) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Design
 |  |
 | ------- |
@@ -117,10 +118,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Sorting
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Memoization
 |  |
 | ------- |
