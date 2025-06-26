@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0724-find-pivot-index) |
+| [1036-rotting-oranges](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/1036-rotting-oranges) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Design
@@ -140,4 +141,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0144-binary-tree-preorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/1036-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
