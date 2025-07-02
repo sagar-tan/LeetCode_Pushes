@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/0357-count-numbers-with-unique-digits) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,5 +159,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2121-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sagar-tan/LeetCode_Pushes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
